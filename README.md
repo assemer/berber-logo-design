@@ -9,7 +9,6 @@
     <a href="https://github.com/assemer/berber-logo-design"><strong>Explore the Images »</strong></a>
     <br />
     <br />
-    <a href="">follow Me</a>
   </p>
 </div>
 
@@ -32,3 +31,10 @@
 <a href="https://github.com/assemer/berber-logo-design">
     <img src="viewME.png" alt="Header">
   </a>
+  
+ <h3>Follow Me -> </h3>
+ <div align="center">
+ <a href='https://instagrm.com/'><img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white'  /></a>
+ <a href='https://tiktok.com/assemer3'><img src='https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white' href='' /></a>
+
+</div>
