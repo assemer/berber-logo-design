@@ -4,7 +4,7 @@
   <h1 align="">berber logo design</h1>
 
   <p align="">
-    Voici 10 image de la lettre «z» de la célèbre langue Tiffany, et évite le symbole represent le peuple kabyle et berbère .
+    Voici 10 image de la lettre «z» de la célèbre langue Tifinay, et évite le symbole represent le peuple kabyle et berbère .
     <br />
     <a href="https://github.com/assemer/berber-logo-design"><strong>Explore the Images »</strong></a>
     <br />
